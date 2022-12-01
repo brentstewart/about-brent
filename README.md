@@ -5,7 +5,7 @@ This document is written to help you understand my work patterns and how to work
 
 I've been in the industry about thirty years, in service provider and enterprise organizations. I have a Master's in Information Security and have written several books on IT topics.
 
-I've been married to Karen for 24 years and we have four kids - Benjamin, Kaitlyn , Madelyn and William. We also have two dogs - Bing and Google.
+I've been married to Karen since 1996 and we have four kids - Benjamin, Kaitlyn , Madelyn and William. We also have two dogs - Google and Quora.
 
 You're welcome to connect with me online on [LinkedIn](https://www.linkedin.com/in/brentdstewart/) or [Github](https://github.com/brentstewart).
 
